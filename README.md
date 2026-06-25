@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-journal-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Journal De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-journal-de-mon-cur/) |
+| **Get License** | [Music Rights & Licensing for Le Journal De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-journal-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, ton regard m'ensorcelle
+> C'est une nuit de folie, you're looking so belle
+> La basse résonne, la tension monte d'un cran
+> Laisse-toi guider par moi, on prend tout notre temps
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
